@@ -1,0 +1,36 @@
+Components of ALM:
+ - Site (contains all of the domains and projects)
+   - Domain/Project (Unique specifications for each project)
+     - Modules within the Project
+	- Requirements, Testing, Defects, etc.
+
+
+
+3 Roles within ALM:
+
+1. Site Administrator - Manages the entire ALM site
+	- Adding, Removing, Updating Domains and Projects
+	- Adding, Removing, Updating Users for the project
+	- Updating configurations for all the projects
+
+2. Project Administrator - Manages the entire Project in ALM
+	- Adding, Removing Users to the project
+	- Configuring the project and it's various modules
+
+3. User - a member of the project who is performing work for that project
+	- Adding, removing, updating requirements/tests/defects
+	- Executing test cases
+	- Mapping Requirements with Tests 
+	- Generating Reports
+
+
+
+
+
+
+
+
+
+
+
+

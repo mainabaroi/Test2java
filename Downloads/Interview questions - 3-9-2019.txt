@@ -1,0 +1,57 @@
+1. What is ATDD and how is it different from TDD?
+	- TDD -> Test Driven Development
+		- ATDD -> Acceptance Test Driven Development
+	How it works:
+		1. Testers create the tests
+		2. Testers execute the tests (they fail)
+		3. Developers create the code based on the tests
+		4. Testers execute the tests again and they pass
+	
+	TDD -> Creating tests based on the technical requirements 
+	ATDD -> Creating tests based on the Acceptance Criteria
+
+
+2. How do you force UFT to learn an object? 
+By manipulating the Mandatory and Assistive properties
+
+
+
+3. How can you export test from ALM into Excel? 
+	1. Go To Test Plan Section
+	2. change the view to Test Grid
+	3. Select the tests you want to export, Right Click, Export -> Export Selected
+	4. Save the execl file
+
+
+
+JOB FAIR
+March 13th, 2019
+11am - 2:00pm
+Holiday Inn Rosslyn
+1900 N Fort Myer Dr 
+Arlington, VA 22209
+
+https://choicecareerfairs.com/e/washington-dc-career-fair-march-13-2019
+
+
+
+
+
+
+
+
+
+
+
+4. What are the steps to generate an RTM in ALM?
+	1. Go to Requirement Section
+	2. Change view to Traceability Matrix and click on 'Configure Traceability Matrix'
+	3. Apply the appropriate filters
+	4. Click on Generate...
+	5. Save the excel file
+
+
+5. What is the file extension for a test script in UFT?
+.MTS
+
+

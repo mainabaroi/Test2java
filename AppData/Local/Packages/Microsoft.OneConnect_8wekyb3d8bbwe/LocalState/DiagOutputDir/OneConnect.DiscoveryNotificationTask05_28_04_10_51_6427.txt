@@ -1,0 +1,5 @@
+05/28/2020 04:10:52.12	Information	DataMartConfig.json not found
+05/28/2020 04:10:52.17	Error	LPA creation failed with no modem found.
+05/28/2020 04:10:52.17	Error	Modem not found
+05/28/2020 18:06:32.64	Error	LPA creation failed with no modem found.
+05/28/2020 18:06:32.64	Error	Modem not found

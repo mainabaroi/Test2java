@@ -1,0 +1,19 @@
+Top down Integration
+	1st GUI
+	2nd Middleware
+	3rd back-end
+
+
+Bottom up Integration
+	1st back-end
+	2nd middleware
+	3rd GUI
+
+
+Application Architecure:
+
+GUI
+---------------------
+Middleware 
+---------------------
+Back-end (Code)

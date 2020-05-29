@@ -1,0 +1,27 @@
+Jira - Issue & project tracking tool.
+
+Epic: Epic describes the whole system.
+
+Story: 
+
+- Story in Jira means Features of the application or parts of Epic.
+
+- Developer team creates it.
+
+- In agile(scrum) to work with Jira we first need to create a story.
+
+How to setup Jira Project:
+
+On the left bottom corner click on the menu icon>> Click On Jira>> from top selections click on Projects>> From top right click on Create Project>>From Template section click on change>>Choose the first one which says Scrum.
+
+As a tester you have to fill out the following fields in JIRA
+
+i) Priority
+
+ii) Issue
+
+iii) Assignee 
+
+iv) Sprint 
+
+

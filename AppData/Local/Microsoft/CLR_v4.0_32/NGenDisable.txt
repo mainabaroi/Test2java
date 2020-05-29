@@ -1,0 +1,4 @@
+C:\WINDOWS\SysNative\WinMetadata\Windows.Devices.winmd	637091152321027603
+C:\WINDOWS\SysNative\WinMetadata\Windows.Foundation.winmd	637091152321239342
+C:\WINDOWS\SysNative\WinMetadata\Windows.Media.winmd	637091152321834567
+C:\WINDOWS\SysNative\WinMetadata\Windows.Graphics.winmd	637091152321506808

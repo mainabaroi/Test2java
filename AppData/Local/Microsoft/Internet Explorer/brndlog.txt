@@ -1,0 +1,110 @@
+03/03/2020 20:47:30 Checking for existence of Branding Active Setup stub...
+03/03/2020 20:47:30 InternetExplorerBrandGUID didn't exist: Branding component not installed
+03/03/2020 20:47:30 Inf Version is set to "11,00,10586,17".
+03/03/2020 20:47:30 Branding conditions failed. Applying only default branding.
+
+03/03/2020 20:47:30     COM initialized with S_FALSE success code.
+
+03/03/2020 20:47:30 Branding Internet Explorer...
+03/03/2020 20:47:30 Command line is "/mode:isp /peruser".
+
+03/03/2020 20:47:30 Global branding settings are:
+03/03/2020 20:47:30     Context is (0x01C00008) "Internet Content Providers, running from per-user stub";
+03/03/2020 20:47:30     Settings file is        "C:\Program Files (x86)\Internet Explorer\Signup\install.ins";
+03/03/2020 20:47:30     Target folder path is   "C:\Program Files (x86)\Internet Explorer\Signup".
+03/03/2020 20:47:30 Done.
+
+03/03/2020 20:47:30     About to clear previous branding...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Processing migration of old settings...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Processing wininet setup...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Processing deletion of connection settings...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Processing zones HKCU settings...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Processing local machine policies and restrictions...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Processing current user policies and restrictions...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Processing legacy policies and restrictions...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Processing general customizations...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Processing Help->About customization...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Processing browser toolbar buttons...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Processing root certificates...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Processing default favorites and/or quick links...
+03/03/2020 20:47:30     Creating separate thread for processing default favorites...
+
+03/03/2020 20:47:30     COM initialized with S_OK success code.
+03/03/2020 20:47:30         Determining favorites attributes...
+03/03/2020 20:47:30             <Favorites> folder location is "C:\Users\Moyna.CHOHAN-HWINLT00\Favorites".
+03/03/2020 20:47:30         marked as Low Integrity,
+03/03/2020 20:47:30         Title     - "Bing",
+03/03/2020 20:47:30         URL       - "http://go.microsoft.com/fwlink/p/?LinkId=255142",
+03/03/2020 20:47:30         Icon file - "%ProgramFiles%\Internet Explorer\Images\bing.ico",
+03/03/2020 20:47:30         not marked IEAK created,
+03/03/2020 20:47:30         Done.
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Processing deletion of favorites and/or quick links...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Processing favorites...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Processing ordering of favorites...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Processing quick links...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Processing ordering of quick links...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Processing connection settings...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Processing TrustedPublisherLockdown restriction...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Creating feeds...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Creating start pages...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Creating search providers...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Installing Activities...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Installing Unattend Favorite bar items...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Installing Unattend Activites...
+03/03/2020 20:47:30     Done.
+
+03/03/2020 20:47:30     Refreshing browser settings...
+03/03/2020 20:47:30     Broadcasting "Windows settings change" to all top level windows...
+03/03/2020 20:47:30     Done.
+03/03/2020 20:47:30 Done.
+03/03/2020 20:47:30 Done.

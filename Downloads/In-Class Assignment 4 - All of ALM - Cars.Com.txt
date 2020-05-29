@@ -1,0 +1,23 @@
+User Story: As a user, I want to be able to search for cars on www.Cars.Com based on Condition, Make, Model, Max Price, and Radius of zipcode so that I can contact a dealership that has a car I am interested in.
+
+	AC1: A value must be selected/entered for all of the following:
+		Condition
+		Make
+		Model
+		Max Price
+		Radius
+		ZipCode
+
+	AC2: Users must be able to select a Trim after searching for cars to further define the search. All other filters are optional
+
+	AC3: Users must be able to check the availablity of car by filling out a form which will contact the seller of the car
+		3A: First Name, Last Name, and Email must be provided prior to sending a message to the seller
+
+
+1. Create a New Domain and Project and add at least 4 users
+2. Designate 1 Project Admin
+3. As Project Admin, configure the project entitites and groups and permissions appropriately (as per the ALM Homework 1)
+4. As a BA, create the requirements in ALM
+5. As a Tester, create test cases in Excel and import the tests into ALM
+6. Execute the tests and log any defects as needed
+7. Generate the RTM to verify requirement coverage

@@ -1,0 +1,24 @@
+12/08/2019 15:56:32.51	Information	Unable to read file DataMartConfig.json. Exception: One or more errors occurred. (The system cannot find the file specified. (Exception from HRESULT: 0x80070002))
+12/08/2019 15:56:33.10	Information	HResult: -2146233088
+Message: One or more errors occurred. (The system cannot find the file specified. (Exception from HRESULT: 0x80070002))
+StackTrace:    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean) + 0x2d
+   at DataMartServiceAPI.DataMartConfigurationFactory.GetDataMartConfiguration() + 0xfb
+
+12/08/2019 15:56:33.13	Error	LPA creation failed with no modem found.
+12/08/2019 15:56:33.13	Error	Modem not found
+12/08/2019 15:56:33.19	Error	BackgroundTaskInitialize returned ModemNotFound
+12/08/2019 15:56:33.35	Information	Unable to read file DataMartConfig.json. Exception: One or more errors occurred. (The system cannot find the file specified. (Exception from HRESULT: 0x80070002))
+12/08/2019 15:56:33.35	Information	HResult: -2146233088
+Message: One or more errors occurred. (The system cannot find the file specified. (Exception from HRESULT: 0x80070002))
+StackTrace:    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean) + 0x2d
+   at DataMartServiceAPI.DataMartConfigurationFactory.GetDataMartConfiguration() + 0xfb
+
+12/08/2019 15:56:33.35	Information	Setting up Discovery notification from post installation task.
+12/08/2019 15:56:33.39	Information	Existing registraion with name OneConnect.DiscoveryNotificationTask was found and replaced
+12/08/2019 15:56:33.39	Information	Unregistering task with name: OneConnect.DiscoveryNotificationTask
+12/08/2019 15:56:33.41	Information	Registered task with name: OneConnect.DiscoveryNotificationTask
+12/08/2019 15:56:33.46	Information	Setting up toast notification action from post installation task.
+12/08/2019 15:56:33.48	Information	Existing registraion with name OneConnect.ToastNotificationActionTask was found and replaced
+12/08/2019 15:56:33.48	Information	Unregistering task with name: OneConnect.ToastNotificationActionTask
+12/08/2019 15:56:33.49	Information	Registered task with name: OneConnect.ToastNotificationActionTask
+12/08/2019 15:56:33.50	Information	PatchSimMri: No Modem found
